@@ -1,0 +1,17 @@
+body {
+	background-color: #101018;
+	max-width: 800px;
+	margin: 40px auto;
+	}
+	
+h1 {
+	font-family: sans-serif;
+	color: #eeeeee;
+	text-align: center;
+	}
+
+p {
+	font-family: sans-serif;
+	color: #eeeeee;
+	text-align: center;
+}
