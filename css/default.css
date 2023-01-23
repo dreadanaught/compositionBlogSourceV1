@@ -1,6 +1,6 @@
 body {
 	background-color: #101018;
-	max-width: 800px;
+	max-width: 650px;
 	margin: 40px auto;
 	}
 	
@@ -14,4 +14,20 @@ p {
 	font-family: sans-serif;
 	color: #eeeeee;
 	text-align: center;
+}
+
+a:link {
+	color: #1050a8;
+}
+
+a:visited {
+	color: #103098;
+}
+
+a:hover {
+	color: #103098;
+}
+
+a:active {
+	color: #101028;
 }
